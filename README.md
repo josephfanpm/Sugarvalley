@@ -3,7 +3,7 @@
 A cozy village game for people with type 1 diabetes: every CGM reading in range brings sunlight back
 to a faded valley, and friends and family can visit to cheer you on.
 
-**[Play the live prototype](https://josephfanpm.github.io/sugarvalley/)** (real Dexcom readings, no
+**[Play the live prototype](https://josephfanpm.github.io/Sugarvalley/)** (real Dexcom readings, no
 sign-in) · [Product requirements](docs/PRD.md) · [Build and run](docs/DEVELOPMENT.md)
 
 Not a medical device. No alerts, no dosing advice. See the [safety rules](design/gdd/safety.md).
